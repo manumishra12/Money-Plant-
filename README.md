@@ -8,5 +8,5 @@ Android application he Money Plant for Smart Bin that we have developed in Smart
 
 
 <div float="right" width="400">
-  <img align="left" height="450" width="800" src="Thumbnail.png">
+  <img align="left" height="450" width="800" src="IMG-20220829-WA0000.jpeg">
 </div>
