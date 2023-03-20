@@ -3,7 +3,7 @@ Android application he Money Plant for Smart Bin that we have developed in Smart
 
 
 <div align="left" >
-  <h2> <img src = "https://github.com/manumishra12/Rolex-Website/blob/main/Rolex%20Watch%20.gif" width = 800px height=450px> </h2>
+  <h2> <img src = "https://github.com/manumishra12/Money-Plant-/blob/main/Website%20Video.gif" width = 800px height=450px> </h2>
 </div>
 
 
