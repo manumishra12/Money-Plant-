@@ -29,10 +29,13 @@ This project has got the 2nd Position in "Smart India Hackathon 2022".
 ```
 Money Plant App
 ```
-<div align="left" >
-  <h2> <img src = "https://github.com/manumishra12/Money-Plant-/blob/main/3d_model.gif" width = 300px height=550px> </h2>
+<div float="right" width="400">
+  <img align="left" height="500" width="1000" src="Application.jpg">
+  <br>
 </div>
 <br>
+<br>
+
 
 
 ### 3D Model View
